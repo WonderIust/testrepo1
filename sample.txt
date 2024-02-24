@@ -1,2 +1,2 @@
-sample text
+1st Simple Text
 second message
